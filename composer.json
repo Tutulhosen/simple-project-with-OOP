@@ -1,0 +1,19 @@
+{
+    "name": "tutulhosen/oppproject",
+    "description": "This project is for student information",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tutul",
+            "email": "tutulhosen2022@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "App\\" : "app"
+        }
+    }
+}
